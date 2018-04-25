@@ -9,7 +9,7 @@
 ➔ [InitProxyFunctions](#Proxy-InitProxyFunctions)  
 ➔ [ProxyLibrary](#Proxy-ProxyLibrary)  
 [**GLOBAL**](#Секция-global)  
-[**PERFORMANCE**](#Секция-perfomance)  
+[**PERFORMANCE**](#Секция-performance)  
 [**MEMORY**](#Секция-memory)  
 [**THREADS**](#Секция-threads)  
 [**MULTIHEAD**](#Секция-multihead)  
