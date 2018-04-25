@@ -4,7 +4,7 @@
 
 Этот гайд - всеобъемлющий справочник по функциям всех параметров, находящихся в файле "enblocal.ini". Все они расположены в порядке, заданном оригинальным файлом, и имеют пояснения, которые помогут вам в индивидуальной настройке.
 
-[Proxy](#Секция-proxy)  
+[**Proxy**](#Секция-proxy)  
 ➔ [EnableProxyLibrary](#Proxy-EnableProxyLibrary)  
 ➔ [InitProxyFunctions](#Proxy-InitProxyFunctions)  
 ➔ [ProxyLibrary](#Proxy-ProxyLibrary)
