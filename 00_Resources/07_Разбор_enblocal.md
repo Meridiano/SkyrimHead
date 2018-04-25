@@ -7,85 +7,95 @@
 [**PROXY**](#Секция-proxy)  
 ➔ [EnableProxyLibrary](#Proxy-EnableProxyLibrary)  
 ➔ [InitProxyFunctions](#Proxy-InitProxyFunctions)  
-➔ [ProxyLibrary](#Proxy-ProxyLibrary)  
+➔ [ProxyLibrary](#Proxy-ProxyLibrary)
+
 [**GLOBAL**](#Секция-global)  
-➔
-➔
-➔
-➔
-➔
+➔ [UsePatchSpeedhackWithoutGraphics](#Global-UsePatchSpeedhackWithoutGraphics)  
+➔ [UseDefferedRendering](#Global-UseDefferedRendering)  
+➔ [IgnoreCreationKit](#Global-IgnoreCreationKit)
+
 [**PERFORMANCE**](#Секция-performance)  
-➔
-➔
-➔
-➔
-➔
+➔ [SpeedHack](#Performance-SpeedHack)  
+➔ [EnableOcclusionCulling](#Performance-EnableOcclusionCulling)
+
 [**MEMORY**](#Секция-memory)  
-➔
-➔
-➔
-➔
-➔
+➔ [ExpandSystemMemoryX64](#Memory-ExpandSystemMemoryX64)  
+➔ [ReduceSystemMemoryUsage](#Memory-ReduceSystemMemoryUsage)  
+➔ [DisableDriverMemoryManager](#Memory-DisableDriverMemoryManager)  
+➔ [DisablePreloadToVRAM](#Memory-DisablePreloadToVRAM)  
+➔ [EnableUnsafeMemoryHacks](#Memory-EnableUnsafeMemoryHacks)  
+➔ [ReservedMemorySizeMb](#Memory-ReservedMemorySizeMb)  
+➔ [VideoMemorySizeMb](#Memory-VideoMemorySizeMb)  
+➔ [EnableCompression](#Memory-EnableCompression)  
+➔ [AutodetectVideoMemorySize](#Memory-AutodetectVideoMemorySize)
+
 [**THREADS**](#Секция-threads)  
-➔
-➔
-➔
-➔
-➔
+➔ [DataSyncMode](#Threads-DataSyncMode)  
+➔ [PriorityMode](#Threads-PriorityMode)
+
 [**MULTIHEAD**](#Секция-multihead)  
-➔
-➔
-➔
-➔
-➔
+➔ [ForceVideoAdapterIndex](#MultiHead-ForceVideoAdapterIndex)  
+➔ [VideoAdapterIndex](#MultiHead-VideoAdapterIndex)
+
 [**WINDOW**](#Секция-window)  
-➔
-➔
-➔
-➔
-➔
+➔ [ForceBorderless](#Window-ForceBorderless)  
+➔ [ForceBorderlessFullscreen](#Window-ForceBorderlessFullscreen)
+
 [**ENGINE**](#Секция-engine)  
-➔
-➔
-➔
-➔
-➔
+➔ [ForceAnisotropicFiltering](#Engine-ForceAnisotropicFiltering)  
+➔ [MaxAnisotropy](#Engine-MaxAnisotropy)  
+➔ [ForceLodBias](#Engine-ForceLodBias)  
+➔ [LodBias](#Engine-LodBias)  
+➔ [AddDisplaySuperSamplingResolutions](#Engine-AddDisplaySuperSamplingResolutions)  
+➔ [EnableVSync](#Engine-EnableVSync)  
+➔ [VSyncSkipNumFrames](#Engine-VSyncSkipNumFrames)
+
 [**LIMITER**](#Секция-limiter)  
-➔
-➔
-➔
-➔
-➔
+➔ [WaitBusyRenderer](#Limiter-WaitBusyRenderer)  
+➔ [EnableFPSLimit](#Limiter-EnableFPSLimit)  
+➔ [FPSLimit](#Limiter-FPSLimit)
+
 [**INPUT**](#Секция-input)  
-➔
-➔
-➔
-➔
-➔
+➔ [KeyReadConfig](#Input-KeyReadConfig)  
+➔ [KeyCombination](#Input-KeyCombination)  
+➔ [KeyUseEffect](#Input-KeyUseEffect)  
+➔ [KeyFPSLimit](#Input-KeyFPSLimit)  
+➔ [KeyShowFPS](#Input-KeyShowFPS)  
+➔ [KeyScreenshot](#Input-KeyScreenshot)  
+➔ [KeyEditor](#Input-KeyEditor)  
+➔ [KeyFreeVRAM](#Input-KeyFreeVRAM)  
+➔ [KeyBruteForce](#Input-KeyBruteForce)  
+➔ [KeyDepthOfField](#Input-KeyDepthOfField)
+
 [**ADAPTIVEQUALITY**](#Секция-adaptivequality)  
-➔
-➔
-➔
-➔
-➔
+➔ [Enable](#AdaptiveQuality-Enable)  
+➔ [Quality](#AdaptiveQuality-Quality)  
+➔ [DesiredFPS](#AdaptiveQuality-DesiredFPS)
+
 [**ANTIALIASING**](#Секция-antialiasing)  
-➔
-➔
-➔
-➔
-➔
+➔ [EnableEdgeAA](#AntiAliasing-EnableEdgeAA)  
+➔ [EnableTemporalAA](#AntiAliasing-EnableTemporalAA)  
+➔ [EnableSubPixelAA](#AntiAliasing-EnableSubPixelAA)
+
 [**FIX**](#Секция-fix)  
-➔
-➔
-➔
-➔
-➔
+➔ [FixGameBugs](#Fix-FixGameBugs)  
+➔ [FixParallaxBugs](#Fix-FixParallaxBugs)  
+➔ [FixParallaxTerrain](#Fix-FixParallaxTerrain)  
+➔ [FixAliasedTextures](#Fix-FixAliasedTextures)  
+➔ [IgnoreLoadingScreen](#Fix-IgnoreLoadingScreen)  
+➔ [IgnoreInventory](#Fix-IgnoreInventory)  
+➔ [FixTintGamma](#Fix-FixTintGamma)  
+➔ [RemoveBlur](#Fix-RemoveBlur)  
+➔ [FixSubSurfaceScattering](#Fix-FixSubSurfaceScattering)  
+➔ [FixSkyReflection](#Fix-FixSkyReflection)  
+➔ [FixCursorVisibility](#Fix-FixCursorVisibility)  
+➔ [FixLag](#Fix-FixLag)
+
 [**LONGEXPOSURE**](#Секция-longexposure)  
-➔
-➔
-➔
-➔
-➔
+➔ [EnableLongExposureMode](#LongExposure-EnableLongExposureMode)  
+➔ [Time](#LongExposure-Time)  
+➔ [BlendMax](#LongExposure-BlendMax)
+
 ------
 
 ## Секция [PROXY]
