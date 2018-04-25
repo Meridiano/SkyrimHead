@@ -7,7 +7,20 @@
 [**PROXY**](#Секция-proxy)  
 ➔ [EnableProxyLibrary](#Proxy-EnableProxyLibrary)  
 ➔ [InitProxyFunctions](#Proxy-InitProxyFunctions)  
-➔ [ProxyLibrary](#Proxy-ProxyLibrary)
+➔ [ProxyLibrary](#Proxy-ProxyLibrary)  
+[**GLOBAL**](#Секция-global)  
+[**PERFORMANCE**](#Секция-perfomance)  
+[**MEMORY**](#Секция-memory)  
+[**THREADS**](#Секция-threads)  
+[**MULTIHEAD**](#Секция-multihead)  
+[**WINDOW**](#Секция-window)  
+[**ENGINE**](#Секция-engine)  
+[**LIMITER**](#Секция-limiter)  
+[**INPUT**](#Секция-input)  
+[**ADAPTIVEQUALITY**](#Секция-adaptivequality)  
+[**ANTIALIASING**](#Секция-antialiasing)  
+[**FIX**](#Секция-fix)  
+[**LONGEXPOSURE**](#Секция-longexposure)  
 
 ------
 
