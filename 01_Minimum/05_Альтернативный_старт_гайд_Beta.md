@@ -6,6 +6,7 @@
 + [Подготовка игры](#Preparation)
 + [Запуск игры](#StartGame)
 + [Полезные советы](#GoodTips)
++ [Переход с МО1 на МО2](#Transition)
 
 ## <a name="DownloadInstall"></a> Скачивание/установка игры
 
