@@ -48,7 +48,7 @@
 
     ![](../00_Resources/Alternative_Guide_Beta/001.png)
 
-    По желанию можешь открыть окно управления профилями поставить галку Local Savegames.
+    По желанию можешь открыть окно управления профилями и поставить галку Local Savegames.
 
     ![](../00_Resources/Alternative_Guide_Beta/002.png)
 
