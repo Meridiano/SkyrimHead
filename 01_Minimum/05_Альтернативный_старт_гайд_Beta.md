@@ -60,7 +60,7 @@
     + По желанию можешь изменить галки справа вверху - там оконный режим, FXAA (сглаживание), работа в фоновом режиме и вертикальная синхронизация. Наконец, кликни Save and Exit.
     + В дальнейшем тебе желательно донастроить эти инишники, следуя рекомендациям S.T.E.P. Вот [Skyrim.ini](http://wiki.step-project.com/Guide:Skyrim_INI), а вот [SkyrimPrefs.ini](http://wiki.step-project.com/Guide:SkyrimPrefs_INI), все изменения вноси через INI-редактор MO2, у него для каждого профиля свой набор файлов.
 
-6) Теперь тебе надо расставить всё как следует. Запусти MO2 и сделай вот так (Dawnguard-HearthFires-Dragonborn-HD01-HD02-HD03).
+6) Теперь тебе надо расставить всё как следует. Запусти MO2 и укажи такой порядок: Dawnguard-HearthFires-Dragonborn-HD01-HD02-HD03.
 
     ![](../00_Resources/Alternative_Guide_Beta/003.png)
 
