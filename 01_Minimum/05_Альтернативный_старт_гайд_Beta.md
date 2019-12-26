@@ -119,7 +119,7 @@
 
 11) Теперь установка и настройка ENBoost. Настоящий маст-хэв, который необходим для разных операций в дальнейшем. Делай так:
     + скачай и установи [DirectX End-User Runtimes](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
-    + скачай последнюю версию [ENBSeries](http://enbdev.com/download_mod_tesskyrim.html).
+    + скачай последнюю версию [ENBSeries](http://enbdev.com/download_mod_tesskyrim.htm).
     + в этом архиве открой папку WrapperVersion и возьми оттуда файлы d3d9.dll, enbhost.exe и enblocal.ini. Запихни их в корень игры, где лежит TESV.exe.
 
         > Если в будущем Wrapper будет неправильно работать (такое часто бывает у владельцев ноутбуков), следует использовать Injector. Из папки InjectorVersion возьми файлы ENBInjector.exe, enbinjector.ini и enbseries.dll, а из папки WrapperVersion - файлы enbhost.exe и enblocal.ini. При этом убери из папки игры файл d3d9.dll от Wrapper'а. В дальнейшем ты должен будешь запускать ENBInjector.exe перед каждым запуском игры и выключать его после выхода из игры.
