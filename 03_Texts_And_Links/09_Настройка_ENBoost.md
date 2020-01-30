@@ -9,7 +9,7 @@
 
 1) Убедитесь, что у вас установлена [среда выполнения DirectX 9](https://www.microsoft.com/en-us/download/details.aspx?id=8109) от Microsoft.
 
-2) Скачайте последнюю версию ENBSeries [отсюда](http://enbdev.com/download_mod_tesskyrim.html).
+2) Скачайте последнюю версию ENBSeries [отсюда](http://enbdev.com/download_mod_tesskyrim.htm).
 
 3) В архиве откройте папку WrapperVersion и скопируйте из неё файлы "d3d9.dll", "enbhost.exe" и "enblocal.ini" (только их!) в папку с игрой (где находятся "TESV.exe" и "SkyrimLauncher.exe").
 
